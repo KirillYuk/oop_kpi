@@ -1,0 +1,4 @@
+ZH = 30
+ARRAY_SIZE = 130
+RUBBER_COLOR = "#37A6FA"
+RECT_FILL = "white"
